@@ -1,17 +1,18 @@
 Step 1: Login Screen
 When you open the app, the first thing you'll see is a login screen. If you're new, don't worry! There's a "Sign Up" option. Click on it.
 ![WhatsApp Image 2023-12-02 at 2 55 51 PM (2)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a)
-
+![WhatsApp Image 2023-12-08 at 9 45 47 AM (1)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/f9e8ec47-d108-438a-bca4-34df663c3dbe)
+![WhatsApp Image 2023-12-02 at 2 55 51 PM (1)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/c06d74ea-9af5-4d00-8260-64767f28025a)
 Step 2: Sign Up
 Here, you need to register your email, create a username, and set up a password. Once done, go back to the login screen.
-![WhatsApp Image 2023-12-08 at 9 45 47 AM (1)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/f9e8ec47-d108-438a-bca4-34df663c3dbe)
+
 
 Step 3: Login
 Now, use your newly created username and password to log in. If everything checks out, you'll be taken to the main activity.
 
 Step 4: Main Activity
 Welcome to the main screen! Here, you'll see subjects you can give feedback on. Choose a subject that you want to provide feedback for.
-![WhatsApp Image 2023-12-02 at 2 55 51 PM (1)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/c06d74ea-9af5-4d00-8260-64767f28025a)
+
 
 Step 5: Question Page
 Clicking on a subject takes you to a page with questions related to that subject. Read the questions carefully and give your answers.
