@@ -45,6 +45,5 @@ In essence, your Student Online Feedback Application is meticulously designed to
 
 Demo Video
 
-<img src="https://github.com/akshay26april/AiTRC-Application/assets/98200088/58d9043c-be66-4ca7-b3c7-3ff2d607b033" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
+https://github.com/akshay26april/AiTRC-Application/assets/98200088/58d9043c-be66-4ca7-b3c7-3ff2d607b033
 
