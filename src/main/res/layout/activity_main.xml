@@ -47,22 +47,70 @@
 
     </LinearLayout>
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/mainUserRecyclerView"
-        android:layout_width="376dp"
-        android:layout_height="380dp"
-        android:layout_below="@id/toolBar"
-        android:layout_alignParentStart="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginStart="16dp"
-        android:layout_marginLeft="16dp"
-        android:layout_marginTop="167dp"
-        android:layout_marginEnd="19dp"
-        android:layout_marginRight="19dp"
-        android:layout_marginBottom="104dp" />
+    <Button
+        android:id="@+id/button11"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="570dp"
+        android:textColor="#ffffff"
+        android:backgroundTint="@color/white"
+        android:background="@drawable/rounded_rectangle"
+        android:text="Tranning And Placement " />
+
+    <Button
+        android:id="@+id/button21"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="249dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/rounded_rectangle"
+        android:text="Analog Cammunication" />
+
+    <Button
+        android:id="@+id/button31"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="313dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/rounded_rectangle"
+        android:backgroundTint="@color/white"
+        android:text="Digital Signal Process" />
+
+    <Button
+        android:id="@+id/button41"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="378dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/rounded_rectangle"
+        android:backgroundTint="@color/white"
+        android:text="Power Electronics" />
+
+    <Button
+        android:id="@+id/button51"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="442dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/rounded_rectangle"
+        android:backgroundTint="@color/white"
+        android:text="Project Management" />
+
+    <Button
+        android:id="@+id/button61"
+        android:layout_width="320dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="18dp"
+        android:layout_marginTop="506dp"
+        android:textColor="#ffffff"
+        android:background="@drawable/rounded_rectangle"
+        android:backgroundTint="@color/white"
+        android:text="Electric Field Theory" />
 
     <ImageView
         android:id="@+id/camBut"
