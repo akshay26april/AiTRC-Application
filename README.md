@@ -2,7 +2,7 @@ Step 1: Login Screen
 When you open the app, the first thing you'll see is a login screen. If you're new, don't worry! There's a "Sign Up" option.Click on it.
 
 
-<img src="[https://camo.githubusercontent.com/...](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a)" data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a)" width="200" height="400" />
+<img src="[https://camo.githubusercontent.com/...](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a)" data-canonical-src="[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a)" width="200" height="400" />
 Step 2: Sign Up
 Here, you need to register your email, create a username, and set up a password. Once done, go back to the login screen.
 ![SignUp](https://github.com/akshay26april/AiTRC-Application/assets/98200088/f9e8ec47-d108-438a-bca4-34df663c3dbe)
