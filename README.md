@@ -1,7 +1,7 @@
 Step 1: Login Screen
 When you open the app, the first thing you'll see is a login screen. If you're new, don't worry! There's a "Sign Up" option.Click on it.
 
-![WhatsApp Image 2023-12-02 at 2 55 51 PM (2)](https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a | width 100)
+<img scr="https://github.com/akshay26april/AiTRC-Application/assets/98200088/e23ba692-9468-4273-9cc7-9fe78386763a" width="250" hight="250"/>
 
 Step 2: Sign Up
 Here, you need to register your email, create a username, and set up a password. Once done, go back to the login screen.
