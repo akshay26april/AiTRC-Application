@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Admin_Result">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/electricft"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        android:gravity="center">
+    </TextView>
+
+    <androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/swipeToRefresh">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="1"
+        tools:context=".MainActivity">
+
+        <LinearLayout
+            android:id="@+id/imgLayout"
+            android:layout_width="300dp"
+            android:layout_height="400dp"
+            android:layout_marginLeft="38dp"
+            android:layout_marginTop="100dp"
+            android:layout_marginRight="141dp"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/rate1"
+                android:layout_width="210dp"
+                android:layout_height="30dp"
+                android:layout_margin="25dp"
+                android:text="@string/rate1"
+                android:textSize="20dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/rate2"
+                android:layout_width="210dp"
+                android:layout_height="30dp"
+                android:layout_margin="25dp"
+                android:text="@string/rate2"
+                android:textSize="20dp"
+                android:textStyle="bold"></TextView>
+
+            <TextView
+                android:id="@+id/rate3"
+                android:layout_width="210dp"
+                android:layout_height="30dp"
+                android:layout_margin="25dp"
+                android:text="@string/rate3"
+                android:textSize="20dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/rate4"
+                android:layout_width="210dp"
+                android:layout_height="30dp"
+                android:layout_margin="25dp"
+                android:text="@string/rate4"
+                android:textSize="20dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/txtLayout"
+            android:layout_weight="1"
+            android:layout_width="100dp"
+            android:layout_height="400dp"
+            android:orientation="vertical"
+            android:layout_marginTop="-370dp"
+            android:layout_marginBottom="40dp"
+            android:layout_marginLeft="230dp"
+            android:layout_marginRight="30dp"
+            android:gravity="center"
+            android:layout_below="@+id/imgLayout">
+
+            <TextView
+                android:id="@+id/count1"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:layout_margin="4dp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="17dp"
+                android:textStyle="bold">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/count2"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="17dp"
+                android:textStyle="bold"
+                android:layout_margin="4dp">
+
+            </TextView>
+            <TextView
+                android:id="@+id/count3"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:gravity="center"
+                android:textColor="@color/black"
+                android:textSize="17dp"
+                android:textStyle="bold"
+                android:layout_margin="4dp">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/count4"
+                android:layout_width="72dp"
+                android:layout_height="72dp"
+                android:gravity="center"
+                android:textSize="17dp"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:layout_margin="4dp">
+
+            </TextView>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/btnLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal"
+            android:layout_marginTop="24dp"
+            android:gravity="center"
+            android:layout_below="@+id/txtLayout">
+
+            <Button
+                android:id="@+id/btnFirst"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Back"
+                android:textColor="@color/white"
+                android:layout_margin="24dp">
+
+            </Button>
+
+            <Button
+                android:id="@+id/btnSecond"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Next"
+                android:textColor="@color/white"
+                android:layout_margin="24dp">
+
+            </Button>
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/DataView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="View Data" />
+
+    </LinearLayout>
+    </androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
