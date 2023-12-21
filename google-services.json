@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927428551747",
+    "project_id": "aitrc-a0ccf",
+    "storage_bucket": "aitrc-a0ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927428551747:android:a8d7aed0fdcd9e103460f6",
+        "android_client_info": {
+          "package_name": "com.example.aitrc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-2t8hu9x-PZ7DYNe2NQlgnt8uZtV-rAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
