@@ -1,0 +1,7 @@
+#Thu Dec 07 22:22:46 IST 2023
+base.0=E\:\\AiTRC\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes.dex
+base.1=E\:\\AiTRC\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeDexDebugAndroidTest\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
