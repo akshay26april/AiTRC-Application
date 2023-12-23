@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Replace with your actual layout -->
+<!-- activity_admin.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/feedbackLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:padding="16dp">
+
+    <!-- Add other UI elements as needed -->
+
+    <Button
+        android:id="@+id/backbutton2"
+        android:layout_width="95dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:layout_margin="8dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="30dp"
+        android:textColor="@color/black"
+        android:text="Back" />
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="383dp"
+        android:layout_height="510dp"
+        android:layout_marginTop="10dp"
+        android:background="@color/white"
+        android:textColor="@color/black"></TextView>
+
+    <Button
+        android:id="@+id/submit_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Submit Data" />
+
+</LinearLayout>
