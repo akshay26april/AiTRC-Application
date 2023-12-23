@@ -1,0 +1,422 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_settingback.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\settingback.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_chatwindo.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_chatwindo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_sendoption.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_sendoption.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable_sender_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable\\sender_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_subject_background.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\subject_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_spartan_thin.otf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\spartan_thin.otf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable_shapedialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable\\shapedialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_chatone.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\chatone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_admin_result.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_admin_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_sendoptionback.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\sendoptionback.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_four.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\four.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.aitrc.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "com.example.aitrc.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_mainback1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\mainback1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_power.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\power.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_six.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\six.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_list_dep.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\list_dep.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ak1.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ak1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_two.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_spartan_regular.otf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\spartan_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_dialog_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\dialog_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ic_subject3.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ic_subject3.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_qmain.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_qmain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_settone.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\settone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable_button_background.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_fthree.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\fthree.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_sender_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\sender_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_mainback.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\mainback.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable_reciver_shape.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable\\reciver_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_five.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\five.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_registration.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_login_backk.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\login_backk.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_user_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\user_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_chatback.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\chatback.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ait.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ait.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_bhu.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\bhu.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ic_subject2.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ic_subject2.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_sett.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\sett.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_two2.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\two2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_sendbut.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\sendbut.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_imageadd.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\imageadd.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_user_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_user_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_chat.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\chat.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_dancing.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\dancing.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ic_subject4.jpeg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ic_subject4.jpeg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_three.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\three.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_logout.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_thankyou_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\thankyou_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_one.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_man.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\man.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ftwo.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ftwo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_apptext.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\apptext.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_student.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_regis_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\regis_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ak.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\ak.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_photocamera.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\photocamera.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable_bordermain.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable\\bordermain.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_poppins_black.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\poppins_black.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_fone.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\fone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_poppins_italic.ttf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\poppins_italic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_cameraone.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\cameraone.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_one1.jpg.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\one1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_checked.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\checked.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\font_spartan_bold.otf.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\font\\spartan_bold.otf"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-pngs-31:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_reciver_layout.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\reciver_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable-xhdpi_logo_no_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable-xhdpi\\logo_no_back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-merged_res-36:\\drawable_rounded_rectangle.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\AV_Messenger-master\\daemon\\8.0\\com.example.aitrc.app-main-38:\\drawable\\rounded_rectangle.xml"
+    }
+]
