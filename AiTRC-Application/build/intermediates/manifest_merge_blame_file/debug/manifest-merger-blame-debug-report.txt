@@ -1,0 +1,364 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.aitrc"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+9        android:targetSdkVersion="33" />
+10
+11    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+12    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+13    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+13-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:5-79
+13-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:24:22-76
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:5-67
+14-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:25:22-64
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\45dba061abe1e5d647d9f295032bd2d4\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="com.example.aitrc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\45dba061abe1e5d647d9f295032bd2d4\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\45dba061abe1e5d647d9f295032bd2d4\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="com.example.aitrc.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\45dba061abe1e5d647d9f295032bd2d4\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\45dba061abe1e5d647d9f295032bd2d4\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->E:\AiTRC\app\src\main\AndroidManifest.xml:5:5-75:19
+23        android:name="androidx.multidex.MultiDexApplication"
+24        android:allowBackup="true"
+24-->E:\AiTRC\app\src\main\AndroidManifest.xml:6:9-35
+25        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+25-->[androidx.core:core:1.9.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\45dba061abe1e5d647d9f295032bd2d4\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+26        android:dataExtractionRules="@xml/data_extraction_rules"
+26-->E:\AiTRC\app\src\main\AndroidManifest.xml:7:9-65
+27        android:debuggable="true"
+28        android:extractNativeLibs="true"
+29        android:fullBackupContent="@xml/backup_rules"
+29-->E:\AiTRC\app\src\main\AndroidManifest.xml:8:9-54
+30        android:icon="@mipmap/ic_launcher"
+30-->E:\AiTRC\app\src\main\AndroidManifest.xml:9:9-43
+31        android:label="@string/app_name"
+31-->E:\AiTRC\app\src\main\AndroidManifest.xml:10:9-41
+32        android:roundIcon="@mipmap/ic_launcher_round"
+32-->E:\AiTRC\app\src\main\AndroidManifest.xml:11:9-54
+33        android:supportsRtl="true"
+33-->E:\AiTRC\app\src\main\AndroidManifest.xml:12:9-35
+34        android:theme="@style/Theme.AiTRC" >
+34-->E:\AiTRC\app\src\main\AndroidManifest.xml:13:9-43
+35        <activity
+35-->E:\AiTRC\app\src\main\AndroidManifest.xml:15:9-17:40
+36            android:name="com.example.aitrc.testingclass"
+36-->E:\AiTRC\app\src\main\AndroidManifest.xml:16:13-41
+37            android:exported="false" />
+37-->E:\AiTRC\app\src\main\AndroidManifest.xml:17:13-37
+38        <activity
+38-->E:\AiTRC\app\src\main\AndroidManifest.xml:18:9-20:40
+39            android:name="com.example.aitrc.StudentActivity"
+39-->E:\AiTRC\app\src\main\AndroidManifest.xml:19:13-44
+40            android:exported="false" />
+40-->E:\AiTRC\app\src\main\AndroidManifest.xml:20:13-37
+41        <activity
+41-->E:\AiTRC\app\src\main\AndroidManifest.xml:21:9-23:40
+42            android:name="com.example.aitrc.AdminActivity"
+42-->E:\AiTRC\app\src\main\AndroidManifest.xml:22:13-42
+43            android:exported="false" />
+43-->E:\AiTRC\app\src\main\AndroidManifest.xml:23:13-37
+44        <activity
+44-->E:\AiTRC\app\src\main\AndroidManifest.xml:24:9-26:40
+45            android:name="com.example.aitrc.studenttesting"
+45-->E:\AiTRC\app\src\main\AndroidManifest.xml:25:13-43
+46            android:exported="false" />
+46-->E:\AiTRC\app\src\main\AndroidManifest.xml:26:13-37
+47        <activity
+47-->E:\AiTRC\app\src\main\AndroidManifest.xml:27:9-29:40
+48            android:name="com.example.aitrc.testingpage"
+48-->E:\AiTRC\app\src\main\AndroidManifest.xml:28:13-40
+49            android:exported="false" />
+49-->E:\AiTRC\app\src\main\AndroidManifest.xml:29:13-37
+50        <activity
+50-->E:\AiTRC\app\src\main\AndroidManifest.xml:30:9-32:40
+51            android:name="com.example.aitrc.Admin_Result"
+51-->E:\AiTRC\app\src\main\AndroidManifest.xml:31:13-41
+52            android:exported="false" />
+52-->E:\AiTRC\app\src\main\AndroidManifest.xml:32:13-37
+53        <activity
+53-->E:\AiTRC\app\src\main\AndroidManifest.xml:33:9-35:40
+54            android:name="com.example.aitrc.User_main"
+54-->E:\AiTRC\app\src\main\AndroidManifest.xml:34:13-38
+55            android:exported="false" />
+55-->E:\AiTRC\app\src\main\AndroidManifest.xml:35:13-37
+56        <activity
+56-->E:\AiTRC\app\src\main\AndroidManifest.xml:36:9-38:40
+57            android:name="com.example.aitrc.subpage"
+57-->E:\AiTRC\app\src\main\AndroidManifest.xml:37:13-36
+58            android:exported="false" />
+58-->E:\AiTRC\app\src\main\AndroidManifest.xml:38:13-37
+59        <activity
+59-->E:\AiTRC\app\src\main\AndroidManifest.xml:39:9-41:40
+60            android:name="com.example.aitrc.MainSubject"
+60-->E:\AiTRC\app\src\main\AndroidManifest.xml:40:13-40
+61            android:exported="false" />
+61-->E:\AiTRC\app\src\main\AndroidManifest.xml:41:13-37
+62        <activity
+62-->E:\AiTRC\app\src\main\AndroidManifest.xml:42:9-44:40
+63            android:name="com.example.aitrc.QMainActivity"
+63-->E:\AiTRC\app\src\main\AndroidManifest.xml:43:13-42
+64            android:exported="false" />
+64-->E:\AiTRC\app\src\main\AndroidManifest.xml:44:13-37
+65        <activity
+65-->E:\AiTRC\app\src\main\AndroidManifest.xml:45:9-47:40
+66            android:name="com.example.aitrc.admin_login"
+66-->E:\AiTRC\app\src\main\AndroidManifest.xml:46:13-40
+67            android:exported="false" />
+67-->E:\AiTRC\app\src\main\AndroidManifest.xml:47:13-37
+68        <activity
+68-->E:\AiTRC\app\src\main\AndroidManifest.xml:48:9-50:40
+69            android:name="com.example.aitrc.sendoption"
+69-->E:\AiTRC\app\src\main\AndroidManifest.xml:49:13-39
+70            android:exported="false" />
+70-->E:\AiTRC\app\src\main\AndroidManifest.xml:50:13-37
+71        <activity
+71-->E:\AiTRC\app\src\main\AndroidManifest.xml:51:9-53:40
+72            android:name="com.example.aitrc.setting"
+72-->E:\AiTRC\app\src\main\AndroidManifest.xml:52:13-36
+73            android:exported="false" />
+73-->E:\AiTRC\app\src\main\AndroidManifest.xml:53:13-37
+74        <activity
+74-->E:\AiTRC\app\src\main\AndroidManifest.xml:54:9-56:40
+75            android:name="com.example.aitrc.chatwindo"
+75-->E:\AiTRC\app\src\main\AndroidManifest.xml:55:13-38
+76            android:exported="false" />
+76-->E:\AiTRC\app\src\main\AndroidManifest.xml:56:13-37
+77        <activity
+77-->E:\AiTRC\app\src\main\AndroidManifest.xml:57:9-59:40
+78            android:name="com.example.aitrc.registration"
+78-->E:\AiTRC\app\src\main\AndroidManifest.xml:58:13-41
+79            android:exported="false" />
+79-->E:\AiTRC\app\src\main\AndroidManifest.xml:59:13-37
+80        <activity
+80-->E:\AiTRC\app\src\main\AndroidManifest.xml:60:9-62:40
+81            android:name="com.example.aitrc.login"
+81-->E:\AiTRC\app\src\main\AndroidManifest.xml:61:13-34
+82            android:exported="false" />
+82-->E:\AiTRC\app\src\main\AndroidManifest.xml:62:13-37
+83        <activity
+83-->E:\AiTRC\app\src\main\AndroidManifest.xml:63:9-71:20
+84            android:name="com.example.aitrc.splash"
+84-->E:\AiTRC\app\src\main\AndroidManifest.xml:64:13-35
+85            android:exported="true" >
+85-->E:\AiTRC\app\src\main\AndroidManifest.xml:65:13-36
+86            <intent-filter>
+86-->E:\AiTRC\app\src\main\AndroidManifest.xml:66:13-70:29
+87                <action android:name="android.intent.action.MAIN" />
+87-->E:\AiTRC\app\src\main\AndroidManifest.xml:67:17-69
+87-->E:\AiTRC\app\src\main\AndroidManifest.xml:67:25-66
+88
+89                <category android:name="android.intent.category.LAUNCHER" />
+89-->E:\AiTRC\app\src\main\AndroidManifest.xml:69:17-77
+89-->E:\AiTRC\app\src\main\AndroidManifest.xml:69:27-74
+90            </intent-filter>
+91        </activity>
+92        <activity
+92-->E:\AiTRC\app\src\main\AndroidManifest.xml:72:9-74:40
+93            android:name="com.example.aitrc.MainActivity"
+93-->E:\AiTRC\app\src\main\AndroidManifest.xml:73:13-41
+94            android:exported="false" />
+94-->E:\AiTRC\app\src\main\AndroidManifest.xml:74:13-37
+95
+96        <service
+96-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\21deb0374c2d7ffb777c2abf73d56d2d\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:11:9-17:19
+97            android:name="com.google.firebase.components.ComponentDiscoveryService"
+97-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\21deb0374c2d7ffb777c2abf73d56d2d\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:12:13-84
+98            android:directBootAware="true"
+98-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:32:13-43
+99            android:exported="false" >
+99-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\21deb0374c2d7ffb777c2abf73d56d2d\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:13:13-37
+100            <meta-data
+100-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\21deb0374c2d7ffb777c2abf73d56d2d\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:14:13-16:85
+101                android:name="com.google.firebase.components:com.google.firebase.database.ktx.FirebaseDatabaseKtxRegistrar"
+101-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\21deb0374c2d7ffb777c2abf73d56d2d\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:15:17-124
+102                android:value="com.google.firebase.components.ComponentRegistrar" />
+102-->[com.google.firebase:firebase-database-ktx:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\21deb0374c2d7ffb777c2abf73d56d2d\transformed\firebase-database-ktx-20.2.2\AndroidManifest.xml:16:17-82
+103            <meta-data
+103-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:31:13-33:85
+104                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+104-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:32:17-109
+105                android:value="com.google.firebase.components.ComponentRegistrar" />
+105-->[com.google.firebase:firebase-database:20.2.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a3b5a7d71872a1f53b86b16395a1ba35\transformed\firebase-database-20.2.2\AndroidManifest.xml:33:17-82
+106            <meta-data
+106-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\9223b0d386cc402ab94813cd2220042a\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+107                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+107-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\9223b0d386cc402ab94813cd2220042a\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:15:17-122
+108                android:value="com.google.firebase.components.ComponentRegistrar" />
+108-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\9223b0d386cc402ab94813cd2220042a\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:16:17-82
+109            <meta-data
+109-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\f41b3b66124e0b67c938098e4a2933fa\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:11:13-13:85
+110                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthLegacyRegistrar"
+110-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\f41b3b66124e0b67c938098e4a2933fa\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:12:17-119
+111                android:value="com.google.firebase.components.ComponentRegistrar" />
+111-->[com.google.firebase:firebase-auth-ktx:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\f41b3b66124e0b67c938098e4a2933fa\transformed\firebase-auth-ktx-22.3.0\AndroidManifest.xml:13:17-82
+112            <meta-data
+112-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:69:13-71:85
+113                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+113-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:70:17-109
+114                android:value="com.google.firebase.components.ComponentRegistrar" />
+114-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:71:17-82
+115            <meta-data
+115-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\6e084c53f594b6a19912502e2eb4b592\transformed\firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
+116                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+116-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\6e084c53f594b6a19912502e2eb4b592\transformed\firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\6e084c53f594b6a19912502e2eb4b592\transformed\firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\853631cffb0dfb84a35792d241b74847\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:12:13-14:85
+119                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+119-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\853631cffb0dfb84a35792d241b74847\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:13:17-116
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-common-ktx:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\853631cffb0dfb84a35792d241b74847\transformed\firebase-common-ktx-20.4.2\AndroidManifest.xml:14:17-82
+121            <meta-data
+121-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:35:13-37:85
+122                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+122-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:36:17-109
+123                android:value="com.google.firebase.components.ComponentRegistrar" />
+123-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:37:17-82
+124        </service>
+125
+126        <activity
+126-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:29:9-46:20
+127            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+127-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:30:13-80
+128            android:excludeFromRecents="true"
+128-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:31:13-46
+129            android:exported="true"
+129-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:32:13-36
+130            android:launchMode="singleTask"
+130-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:33:13-44
+131            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+131-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:34:13-72
+132            <intent-filter>
+132-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:35:13-45:29
+133                <action android:name="android.intent.action.VIEW" />
+133-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:17-69
+133-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:25-66
+134
+135                <category android:name="android.intent.category.DEFAULT" />
+135-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:17-76
+135-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:27-73
+136                <category android:name="android.intent.category.BROWSABLE" />
+136-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:17-78
+136-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:27-75
+137
+138                <data
+138-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:41:17-44:51
+139                    android:host="firebase.auth"
+139-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:42:21-49
+140                    android:path="/"
+140-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:43:21-37
+141                    android:scheme="genericidp" />
+141-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:44:21-48
+142            </intent-filter>
+143        </activity>
+144        <activity
+144-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:47:9-64:20
+145            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+145-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:48:13-79
+146            android:excludeFromRecents="true"
+146-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:49:13-46
+147            android:exported="true"
+147-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:50:13-36
+148            android:launchMode="singleTask"
+148-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:51:13-44
+149            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+149-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:52:13-72
+150            <intent-filter>
+150-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:53:13-63:29
+151                <action android:name="android.intent.action.VIEW" />
+151-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:17-69
+151-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:36:25-66
+152
+153                <category android:name="android.intent.category.DEFAULT" />
+153-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:17-76
+153-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:38:27-73
+154                <category android:name="android.intent.category.BROWSABLE" />
+154-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:17-78
+154-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:39:27-75
+155
+156                <data
+156-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:41:17-44:51
+157                    android:host="firebase.auth"
+157-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:42:21-49
+158                    android:path="/"
+158-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:43:21-37
+159                    android:scheme="recaptcha" />
+159-->[com.google.firebase:firebase-auth:22.3.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\d4cd8a3e4a2332a0e1b25cb7a4e10fa3\transformed\firebase-auth-22.3.0\AndroidManifest.xml:44:21-48
+160            </intent-filter>
+161        </activity>
+162
+163        <provider
+163-->[com.squareup.picasso:picasso:2.8] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a04c1d383f556cbd9b09d59bb3a74bab\transformed\picasso-2.8\AndroidManifest.xml:8:9-11:40
+164            android:name="com.squareup.picasso.PicassoProvider"
+164-->[com.squareup.picasso:picasso:2.8] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a04c1d383f556cbd9b09d59bb3a74bab\transformed\picasso-2.8\AndroidManifest.xml:9:13-64
+165            android:authorities="com.example.aitrc.com.squareup.picasso"
+165-->[com.squareup.picasso:picasso:2.8] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a04c1d383f556cbd9b09d59bb3a74bab\transformed\picasso-2.8\AndroidManifest.xml:10:13-72
+166            android:exported="false" />
+166-->[com.squareup.picasso:picasso:2.8] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\a04c1d383f556cbd9b09d59bb3a74bab\transformed\picasso-2.8\AndroidManifest.xml:11:13-37
+167
+168        <activity
+168-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\ea1d2155169063a3e7b8f244bebaf5b6\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+169            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+169-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\ea1d2155169063a3e7b8f244bebaf5b6\transformed\play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+170            android:exported="false"
+170-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\ea1d2155169063a3e7b8f244bebaf5b6\transformed\play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+171            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+171-->[com.google.android.gms:play-services-base:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\ea1d2155169063a3e7b8f244bebaf5b6\transformed\play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+172
+173        <provider
+173-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:23:9-28:39
+174            android:name="com.google.firebase.provider.FirebaseInitProvider"
+174-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:24:13-77
+175            android:authorities="com.example.aitrc.firebaseinitprovider"
+175-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:25:13-72
+176            android:directBootAware="true"
+176-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:26:13-43
+177            android:exported="false"
+177-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:27:13-37
+178            android:initOrder="100" />
+178-->[com.google.firebase:firebase-common:20.4.2] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\51eb42b334691e771d1e321cb2b4384a\transformed\firebase-common-20.4.2\AndroidManifest.xml:28:13-36
+179
+180        <meta-data
+180-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\e69ddfd2048d62e013e1c084a9c6ef14\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+181            android:name="com.google.android.gms.version"
+181-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\e69ddfd2048d62e013e1c084a9c6ef14\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
+182            android:value="@integer/google_play_services_version" />
+182-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\e69ddfd2048d62e013e1c084a9c6ef14\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+183
+184        <provider
+184-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+185            android:name="androidx.startup.InitializationProvider"
+185-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+186            android:authorities="com.example.aitrc.androidx-startup"
+186-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+187            android:exported="false" >
+187-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+188            <meta-data
+188-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+189                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+189-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+190                android:value="androidx.startup" />
+190-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\cda509cc96bd5991df7deaeed19a12fa\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+191            <meta-data
+191-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\bd7f4f3b79a25f5f5137cb231240dbd2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+192                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+192-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\bd7f4f3b79a25f5f5137cb231240dbd2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+193                android:value="androidx.startup" />
+193-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Administrator\Desktop\AV_Messenger-master\caches\transforms-3\bd7f4f3b79a25f5f5137cb231240dbd2\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+194        </provider>
+195    </application>
+196
+197</manifest>
